@@ -1,0 +1,14 @@
+INFO - main.py - 2026-04-08 00:03:36,959 - Using device: cuda:0
+INFO - main.py - 2026-04-08 00:03:36,961 - Writing log file to ./results_isic/diffmic_conditional_results/1000steps/nn/run_1/f_phi_prior_cat_f_phi/f_phi_supervised\logs\isic/split_0
+INFO - main.py - 2026-04-08 00:03:36,961 - Exp instance id = 30964
+INFO - main.py - 2026-04-08 00:03:36,961 - Exp comment = 
+INFO - utils.py - 2026-04-08 00:03:37,300 - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+INFO - utils.py - 2026-04-08 00:03:37,301 - NumExpr defaulting to 16 threads.
+INFO - diffusion_trainer.py - 2026-04-08 00:03:40,626 - Loading from: ./results_isic/diffmic_conditional_results/1000steps/nn/run_1/f_phi_prior_cat_f_phi/f_phi_supervised\logs\isic/split_0/ckpt_best.pth
+INFO - diffusion_trainer.py - 2026-04-08 00:03:41,319 - Loading from: ./results_isic/diffmic_conditional_results/1000steps/nn/run_1/f_phi_prior_cat_f_phi/f_phi_supervised\logs\isic/split_0/aux_ckpt_best.pth
+INFO - diffusion_trainer.py - 2026-04-08 00:04:21,472 - [Test:] Average accuracy: 99.65277777777777, Average Kappa: nan, F1: 0.3326898326898327
+INFO - main.py - 2026-04-08 00:04:21,478 - 
+Testing procedure finished. It took 0.6958 minutes.
+
+
+
